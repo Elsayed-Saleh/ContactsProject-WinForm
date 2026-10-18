@@ -36,11 +36,11 @@ The solution consists of three main projects:
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/Screenshot%202026-10-19%20010250.png" width="32%" />
-  <img src="Screenshots/Screenshot%202026-10-19%20011103.png" width="32%" />
-  <img src="Screenshots/Screenshot%202026-10-19%20011203.png" width="32%" />
-  <img src="Screenshots/Screenshot%202026-10-19%20011239.png" width="32%" />
-  <img src="Screenshots/Screenshot%202026-10-19%20011335.png" width="32%" />
+  <img src="ScreenShots/Screenshot%202026-10-19%20010250.png" width="32%" />
+  <img src="ScreenShots/Screenshot%202026-10-19%20011103.png" width="32%" />
+  <img src="ScreenShots/Screenshot%202026-10-19%20011203.png" width="32%" />
+  <img src="ScreenShots/Screenshot%202026-10-19%20011239.png" width="32%" />
+  <img src="ScreenShots/Screenshot%202026-10-19%20011335.png" width="32%" />
 </p>
 
 ## Getting Started
